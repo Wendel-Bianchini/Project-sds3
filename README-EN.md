@@ -1,4 +1,4 @@
-# <p align="center">Project-sds3
+# <p align="center">Project-sds5
 
 <p align="center">Sales control web page project</p>
 
@@ -23,13 +23,13 @@ Table of content
 This project are develop during Spring React week by DevSuperior, where was proposed to develop a web page to sale control using Typescript with React and
 conected with a Java with SpringBoot backend and the database on PostegreSQL
 
-# How to acess
+# How to access
 
 You can access an application through the link: <a href="https://dsvendas-wendel.netlify.app"> SDS5-Vendas
 
 # Technologies
 
-They've been used on this project
+They've been used on this project:
 
 - [Java 11](https://www.oracle.com/java/technologies/)
 - [React](https://pt-br.reactjs.org/)
